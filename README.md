@@ -4,7 +4,7 @@
 
 # Projeto Digital Innovation One
 # Desenvolvendo uma Progressive Web Application com React para mapear os dados do COVID19
-- Este projeto foi proposto pela Digital Innovation One - Link do código original: ??????????????
+- Este projeto foi proposto pela Digital Innovation One - Link do código original: https://github.com/Tautorn/covid19-dio
 - Professor: Bruno Carneiro
 - Aula: https://web.digitalinnovation.one/project/desenvolvendo-uma-progressive-web-application-com-react-para-mapear-os-dados-do-covid19-pelo-mundo/learning/9cbdc221-637f-41b7-a829-8876d2fea3a5?back=/track/sp-tech-desenvolvimento-front-end&bootcamp_id=364dd72c-c787-4a46-9386-2f734253e28d
 

@@ -14,9 +14,6 @@ Mantenha-se informado a respeito de todos os casos do COVID19 pelo mundo criando
 # Detalhes da aula
 - ............................
 
-## Slide explicativo de como funciona a solução
-<img src="https://github.com/rdeconti/Projeto-DIO-.Net-Catalogo-De-Jogos/blob/main/Screens/como%20funcionam%20requisi%C3%A7%C3%B5es%20web.jpg" />
-
 # Testes executados (utilizando IDE Visual Studio 2019)
 
 ## Tela inicial

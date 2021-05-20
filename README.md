@@ -22,6 +22,9 @@ Mantenha-se informado a respeito de todos os casos do COVID19 pelo mundo criando
 # Testes executados (utilizando IDE Visual Studio Code)
 
 ## Tela inicial
-<img src="?????" />
+<img src="https://github.com/rdeconti/Projeto-DIO-ReactJs-Covid19/blob/main/screenTests/tela-inicial.jpg" />
+
+## Tela consulta
+<img src="https://github.com/rdeconti/Projeto-DIO-ReactJs-Covid19/blob/main/screenTests/tela-consulta.jpg" />
 
 -----------------------------------------------------------------------------------------------------------------
